@@ -6,7 +6,7 @@ This repository contains my work on **Real Estate Data Scraping & Analysis**, wh
 
 ![Image](https://github.com/user-attachments/assets/82895464-4336-4a95-991f-5fc93eb93977)
 
-[Quick View Full Project]()
+[Quick View Full Project](https://github.com/TanvirHasan23/Real-Estate-Data-Scraping/blob/main/Real%2BEstate%2BData%2BScraping%2B%26%2BAnalysis.pdf)
 
 ---
 
@@ -33,7 +33,7 @@ This project follows a structured **Real Estate Data Processing Workflow**:
 
 ---
 
-## **My Role in the Project** [Quick View Full Project](https://github.com/AbuSufian-org/Real-Estate-Data-Scraping-Analysis/blob/main/Real%2BEstate%2BData%2BScraping%20And%20Analysis.pdf)
+## **My Role in the Project** [Quick View Full Project](https://github.com/TanvirHasan23/Real-Estate-Data-Scraping/blob/main/Real%2BEstate%2BData%2BScraping%2B%26%2BAnalysis.pdf)
 Although the full project includes all the above steps, my primary responsibilities include:  
 ✅ **Data Collection & Cleaning:** Extracting real estate data from Zillow, TheLandPortal, and other platforms  
 ✅ **Comparable Market Analysis:** Analyzing property trends, pricing, and market value estimation  
@@ -60,4 +60,4 @@ I am actively working on automating key aspects of this project using **Python-b
 
 ---
 
-### 🔗 **GitHub Repository:** [Click Here]()
+### 🔗 **GitHub Repository:** [Click Here](https://github.com/TanvirHasan23/Real-Estate-Data-Scraping/edit/main/README.md)
